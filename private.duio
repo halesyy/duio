@@ -1,0 +1,8 @@
+#//POST
+  login {
+    TRUE (users, username, password)
+  }
+
+  register {
+    INSERT (users, username, password)
+  }
